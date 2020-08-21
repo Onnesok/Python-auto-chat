@@ -1,2 +1,3 @@
 # Python-auto-chat
 this python script allows you to correct your mouse coordinates, click, type and send text.....basically you can simulate chatting with this script though it's exteamly basic.....
+check this video for details : https://youtu.be/rMLiRo99TAs
